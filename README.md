@@ -1,1 +1,3 @@
 # bursa_technical_university
+# Bilgi
+İlk yarıyılın bitmesi bekleniyor...
